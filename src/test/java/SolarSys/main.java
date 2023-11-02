@@ -13,6 +13,11 @@ public class main {
         Sun.name="jaguar";
         Sun.color="purple";
         Sun.temp="-122234567kelvir";
+//      ******Feature Planet**********
+        Feature2Planet Planet = new Feature2Planet();
+        Planet.name="zuzu";
+        Planet.color="orange";
+        Planet.mass="122234567t";
 
     }
 }
