@@ -13,6 +13,14 @@ public class main {
         Sun.name="jaguar";
         Sun.color="purple";
         Sun.temp="-122234567kelvir";
+// ***********1Planet*************
+
+         Feature1Planet pluto = new Feature1Planet();
+         pluto.color = "green";
+         pluto.name = "abracad";
+         pluto.radius = "100000km";
+         pluto.temp = "10000000C";
+
 
     }
 }
