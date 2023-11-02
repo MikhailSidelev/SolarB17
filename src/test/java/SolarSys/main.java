@@ -8,6 +8,11 @@ public class main {
         solarsys.Planets="2";
         solarsys.Stars="10";
         solarsys.Asteroids="17";
+//      ******Feature Sun**********
+        Feature1Sun Sun = new Feature1Sun();
+        Sun.name="jaguar";
+        Sun.color="purple";
+        Sun.temp="-122234567kelvir";
 
     }
 }
